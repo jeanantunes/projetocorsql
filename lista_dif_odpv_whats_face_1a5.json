@@ -1,0 +1,141 @@
+{
+	"materiaisDivulgacao":
+	[		
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":1
+			,"nome":"diferenciais-odpv-facebook-whatsapp-1000x1000-1.jpg"
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-1000x1000-1.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Diferenciais Odontoprev - Posts para Whatsapp e Facebook\\"
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-1.jpg"
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-1.jpg"
+		}
+		,
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":1
+			,"nome":"diferenciais-odpv-facebook-whatsapp-1000x1000-2.jpg"
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-1000x1000-2.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Diferenciais Odontoprev - Posts para Whatsapp e Facebook\\"
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-2.jpg"
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-2.jpg"
+		}
+		,
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":1
+			,"nome":"diferenciais-odpv-facebook-whatsapp-1000x1000-3.jpg"
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-1000x1000-3.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Diferenciais Odontoprev - Posts para Whatsapp e Facebook\\"
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-3.jpg"
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-3.jpg"
+		}
+		,
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":1
+			,"nome":"diferenciais-odpv-facebook-whatsapp-1000x1000-4.jpg"
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-1000x1000-4.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Diferenciais Odontoprev - Posts para Whatsapp e Facebook\\"
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-4.jpg"
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-4.jpg"
+		}
+		,
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":1
+			,"nome":"diferenciais-odpv-facebook-whatsapp-1000x1000-5.jpg"
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-1000x1000-5.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Diferenciais Odontoprev - Posts para Whatsapp e Facebook\\"
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-5.jpg"
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-5.jpg"
+		}
+	]
+}
+
+/*
+{
+    "materiaisDivulgacao": [
+        {
+            "codigoMaterialDivulgacao": 60,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 1,
+            "nome": "diferenciais-odpv-facebook-whatsapp-1000x1000-1.jpg",
+            "descricao": "diferenciais-odpv-facebook-whatsapp-1000x1000-1.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 23686,
+            "arquivo": null,
+            "tamanhoArquivo": 175954,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 61,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 1,
+            "nome": "diferenciais-odpv-facebook-whatsapp-1000x1000-2.jpg",
+            "descricao": "diferenciais-odpv-facebook-whatsapp-1000x1000-2.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 27870,
+            "arquivo": null,
+            "tamanhoArquivo": 174675,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 62,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 1,
+            "nome": "diferenciais-odpv-facebook-whatsapp-1000x1000-3.jpg",
+            "descricao": "diferenciais-odpv-facebook-whatsapp-1000x1000-3.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 26421,
+            "arquivo": null,
+            "tamanhoArquivo": 171659,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 63,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 1,
+            "nome": "diferenciais-odpv-facebook-whatsapp-1000x1000-4.jpg",
+            "descricao": "diferenciais-odpv-facebook-whatsapp-1000x1000-4.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 28396,
+            "arquivo": null,
+            "tamanhoArquivo": 179552,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 64,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 1,
+            "nome": "diferenciais-odpv-facebook-whatsapp-1000x1000-5.jpg",
+            "descricao": "diferenciais-odpv-facebook-whatsapp-1000x1000-5.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 26050,
+            "arquivo": null,
+            "tamanhoArquivo": 173733,
+            "ativo": "S",
+            "caminhoCarga": null
+        }
+    ]
+}
+*/

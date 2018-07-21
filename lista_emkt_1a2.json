@@ -1,0 +1,62 @@
+{
+	"materiaisDivulgacao":
+	[		
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":2
+			,"nome":"emkt-pf-790x1755.jpg"
+			,"descricao":"emkt-pf-790x1755.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Email Marketing\\"
+			,"arquivo":"emkt-pf-790x1755.jpg"
+			,"thumbnail":"emkt-pf-200x250.jpg"
+		}
+		,
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":2
+			,"nome":"emkt-pme-790x1210.jpg"
+			,"descricao":"emkt-pme-790x1210.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Email Marketing\\"
+			,"arquivo":"emkt-pme-790x1210.jpg"
+			,"thumbnail":"emkt-pme-200x250.jpg"
+		}
+	]
+}
+
+/*
+{
+    "materiaisDivulgacao": [
+        {
+            "codigoMaterialDivulgacao": 65,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 2,
+            "nome": "emkt-pf-790x1755.jpg",
+            "descricao": "emkt-pf-790x1755.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 20533,
+            "arquivo": null,
+            "tamanhoArquivo": 343151,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 66,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 2,
+            "nome": "emkt-pme-790x1210.jpg",
+            "descricao": "emkt-pme-790x1210.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 18185,
+            "arquivo": null,
+            "tamanhoArquivo": 201377,
+            "ativo": "S",
+            "caminhoCarga": null
+        }
+    ]
+}*/
