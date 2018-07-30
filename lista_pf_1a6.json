@@ -1,0 +1,162 @@
+{
+	materiaisDivulgacao:
+	[		
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":5
+			,"nome":"pf-dental-bem-estar-fb-wapp-1000x1000.jpg"
+			,"descricao":"pf-dental-bem-estar-fb-wapp-1000x1000.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Planos\\"
+			,"arquivo":"pf-dental-bem-estar-fb-wapp-1000x1000.jpg"
+			,"thumbnail":"pf-dental-bem-estar-fb-wapp-250x250.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":5
+			,"nome":"pf-dental-estetica-fb-wapp-1000x1000.jpg"
+			,"descricao":"pf-dental-estetica-fb-wapp-1000x1000.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Planos\\"
+			,"arquivo":"pf-dental-estetica-fb-wapp-1000x1000.jpg"
+			,"thumbnail":"pf-dental-estetica-fb-wapp-250x250.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":5
+			,"nome":"pf-dental-junior-fb-wapp-1000x1000.jpg"
+			,"descricao":"pf-dental-junior-fb-wapp-1000x1000.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Planos\\"
+			,"arquivo":"pf-dental-junior-fb-wapp-1000x1000.jpg"
+			,"thumbnail":"pf-dental-junior-fb-wapp-250x250.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":5
+			,"nome":"pf-dental-orto-fb-wapp-1000x1000.jpg"
+			,"descricao":"pf-dental-orto-fb-wapp-1000x1000.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Planos\\"
+			,"arquivo":"pf-dental-orto-fb-wapp-1000x1000.jpg"
+			,"thumbnail":"pf-dental-orto-fb-wapp-250x250.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":5
+			,"nome":"pf-dental-vip-fb-wapp-1000x1000.jpg"
+			,"descricao":"pf-dental-vip-fb-wapp-1000x1000.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Planos\\"
+			,"arquivo":"pf-dental-vip-fb-wapp-1000x1000.jpg"
+			,"thumbnail":"pf-dental-vip-fb-wapp-250x250.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":5
+			,"nome":"pf-dente-de-leite-fb-wapp-1000x1000.jpg"
+			,"descricao":"pf-dente-de-leite-fb-wapp-1000x1000.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Planos\\"
+			,"arquivo":"pf-dente-de-leite-fb-wapp-1000x1000.jpg"
+			,"thumbnail":"pf-dente-de-leite-fb-wapp-250x250.jpg"
+		},
+	]
+}
+
+/*
+{
+    "materiaisDivulgacao": [
+        {
+            "codigoMaterialDivulgacao": 47,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 5,
+            "nome": "pf-dental-bem-estar-fb-wapp-1000x1000.jpg",
+            "descricao": "pf-dental-bem-estar-fb-wapp-1000x1000.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 28728,
+            "arquivo": null,
+            "tamanhoArquivo": 207695,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 48,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 5,
+            "nome": "pf-dental-estetica-fb-wapp-1000x1000.jpg",
+            "descricao": "pf-dental-estetica-fb-wapp-1000x1000.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 28043,
+            "arquivo": null,
+            "tamanhoArquivo": 196522,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 49,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 5,
+            "nome": "pf-dental-junior-fb-wapp-1000x1000.jpg",
+            "descricao": "pf-dental-junior-fb-wapp-1000x1000.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 27460,
+            "arquivo": null,
+            "tamanhoArquivo": 201743,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 50,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 5,
+            "nome": "pf-dental-orto-fb-wapp-1000x1000.jpg",
+            "descricao": "pf-dental-orto-fb-wapp-1000x1000.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 28862,
+            "arquivo": null,
+            "tamanhoArquivo": 206379,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 51,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 5,
+            "nome": "pf-dental-vip-fb-wapp-1000x1000.jpg",
+            "descricao": "pf-dental-vip-fb-wapp-1000x1000.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 28379,
+            "arquivo": null,
+            "tamanhoArquivo": 204464,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 52,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 5,
+            "nome": "pf-dente-de-leite-fb-wapp-1000x1000.jpg",
+            "descricao": "pf-dente-de-leite-fb-wapp-1000x1000.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 26427,
+            "arquivo": null,
+            "tamanhoArquivo": 188673,
+            "ativo": "S",
+            "caminhoCarga": null
+        }
+    ]
+}
+*/

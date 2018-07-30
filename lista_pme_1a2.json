@@ -1,0 +1,62 @@
+{
+	materiaisDivulgacao:
+	[		
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":6
+			,"nome":"pme-integral-doc-le-fb-wapp-1000x1000.jpg"
+			,"descricao":"pme-integral-doc-le-fb-wapp-1000x1000.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Planos\\"
+			,"arquivo":"pme-integral-doc-le-fb-wapp-1000x1000.jpg"
+			,"thumbnail":"pme-integral-doc-le--fb-wapp-250x250.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":6
+			,"nome":"pme-master-le-fb-wapp-1000x1000.jpg"
+			,"descricao":"pme-master-le-fb-wapp-1000x1000.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Planos\\"
+			,"arquivo":"pme-master-le-fb-wapp-1000x1000.jpg"
+			,"thumbnail":"pme-master-le-fb-wapp-250x250.jpg"
+		},
+	]
+}
+
+/*
+{
+    "materiaisDivulgacao": [
+        {
+            "codigoMaterialDivulgacao": 53,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 6,
+            "nome": "pme-integral-doc-le-fb-wapp-1000x1000.jpg",
+            "descricao": "pme-integral-doc-le-fb-wapp-1000x1000.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 25211,
+            "arquivo": null,
+            "tamanhoArquivo": 174793,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 54,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 6,
+            "nome": "pme-master-le-fb-wapp-1000x1000.jpg",
+            "descricao": "pme-master-le-fb-wapp-1000x1000.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 23078,
+            "arquivo": null,
+            "tamanhoArquivo": 156526,
+            "ativo": "S",
+            "caminhoCarga": null
+        }
+    ]
+}
+*/

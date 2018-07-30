@@ -1,0 +1,112 @@
+{
+	materiaisDivulgacao:
+	[		
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":3
+			,"nome":"foto-perfil-fb-500x500-1.jpg"
+			,"descricao":"foto-perfil-fb-500x500-1.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Foto Perfil Facebook\\"
+			,"arquivo":"foto-perfil-fb-500x500-1.jpg"
+			,"thumbnail":"foto-perfil-fb-250x250-1.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":3
+			,"nome":"foto-perfil-fb-500x500-2.jpg"
+			,"descricao":"foto-perfil-fb-500x500-2.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Foto Perfil Facebook\\"
+			,"arquivo":"foto-perfil-fb-500x500-2.jpg"
+			,"thumbnail":"foto-perfil-fb-250x250-2.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":3
+			,"nome":"foto-perfil-fb-500x500-3.jpg"
+			,"descricao":"foto-perfil-fb-500x500-3.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Foto Perfil Facebook\\"
+			,"arquivo":"foto-perfil-fb-500x500-3.jpg"
+			,"thumbnail":"foto-perfil-fb-250x250-3.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":3
+			,"nome":"foto-perfil-fb-500x500-4.jpg"
+			,"descricao":"foto-perfil-fb-500x500-4.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Foto Perfil Facebook\\"
+			,"arquivo":"foto-perfil-fb-500x500-4.jpg"
+			,"thumbnail":"foto-perfil-fb-250x250-4.jpg"
+		},
+	]
+}
+
+/*
+{
+    "materiaisDivulgacao": [
+        {
+            "codigoMaterialDivulgacao": 43,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 3,
+            "nome": "foto-perfil-fb-500x500-1.jpg",
+            "descricao": "foto-perfil-fb-500x500-1.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 16030,
+            "arquivo": null,
+            "tamanhoArquivo": 36073,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 44,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 3,
+            "nome": "foto-perfil-fb-500x500-2.jpg",
+            "descricao": "foto-perfil-fb-500x500-2.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 17812,
+            "arquivo": null,
+            "tamanhoArquivo": 41289,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 45,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 3,
+            "nome": "foto-perfil-fb-500x500-3.jpg",
+            "descricao": "foto-perfil-fb-500x500-3.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 18757,
+            "arquivo": null,
+            "tamanhoArquivo": 42592,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 46,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 3,
+            "nome": "foto-perfil-fb-500x500-4.jpg",
+            "descricao": "foto-perfil-fb-500x500-4.jpg",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 18689,
+            "arquivo": null,
+            "tamanhoArquivo": 42290,
+            "ativo": "S",
+            "caminhoCarga": null
+        }
+    ]
+}
+*/
