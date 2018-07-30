@@ -1,0 +1,8 @@
+--------------------------------------------------------
+--  Ref Constraints for Table TBOD_VENDA_VIDA
+--------------------------------------------------------
+
+  ALTER TABLE "CORRET"."TBOD_VENDA_VIDA" ADD CONSTRAINT "FK_TBOD_VENDA_VIDA_VENDA" FOREIGN KEY ("CD_VENDA")
+	  REFERENCES "CORRET"."TBOD_VENDA" ("CD_VENDA") ENABLE;
+  ALTER TABLE "CORRET"."TBOD_VENDA_VIDA" ADD CONSTRAINT "FK_TBOD_VENDA_VIDA_VIDA" FOREIGN KEY ("CD_VIDA")
+	  REFERENCES "CORRET"."TBOD_VIDA" ("CD_VIDA") ENABLE;
