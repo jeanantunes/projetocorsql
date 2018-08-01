@@ -1,0 +1,12 @@
+--------------------------------------------------------
+--  DDL for View VW_ORG
+--------------------------------------------------------
+
+  CREATE OR REPLACE FORCE VIEW "CORRET"."VW_ORG" ("CD_ORG", "NM_ORG") AS 
+  SELECT ORGANIZATION_ID CD_ORG,
+    DESCRIPTION NM_ORG
+  FROM XODP.XODP_COM_HR_ORGANIZATIONS_V@LK_EBSCORRET
+ ;
+  GRANT SELECT ON "CORRET"."VW_ORG" TO "USUCORRET";
+  GRANT SELECT ON "CORRET"."VW_ORG" TO "R_USUCORRET";
+  GRANT SELECT ON "CORRET"."VW_ORG" TO "CD_PORTALDOCORRETOR";
