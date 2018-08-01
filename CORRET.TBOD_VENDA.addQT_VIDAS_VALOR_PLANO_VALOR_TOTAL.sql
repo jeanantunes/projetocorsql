@@ -1,0 +1,11 @@
+/*
+COR-483 : INCLUSAO Qtd de Vidas, Valor Plano, Valor total Venda TBOD_VENDA
+*/
+select * from CORRET.TBOD_VENDA;
+
+alter table CORRET.TBOD_VENDA
+  add QT_VIDAS NUMBER(10,0) NULL
+  add VALOR_PLANO NUMBER(10,2) NULL
+  add VALOR_TOTAL NUMBER(10,2) NULL;
+
+COMMIT;
