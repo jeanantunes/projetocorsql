@@ -1,7 +1,7 @@
 --------------------------------------------------------
 --  DDL for View VWOD_EMP_TOTAL_VIDAS_PME
 --------------------------------------------------------
-/*201808021818 - esert - COR-529: excluir forcaVenda x corretora, incluir venda x corretora*/
+/*201808021818 - esert - COR-529: excluir forcaVenda x corretora, incluir venda x corretora */
 
   CREATE OR REPLACE FORCE VIEW "CORRET"."VWOD_EMP_TOTAL_VIDAS_PME" 
   (
