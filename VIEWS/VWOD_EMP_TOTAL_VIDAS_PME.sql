@@ -1,8 +1,33 @@
 --------------------------------------------------------
 --  DDL for View VWOD_EMP_TOTAL_VIDAS_PME
 --------------------------------------------------------
+/*201808021818 - esert - COR-529: excluir forcaVenda x corretora, incluir venda x corretora*/
 
-  CREATE OR REPLACE FORCE VIEW "CORRET"."VWOD_EMP_TOTAL_VIDAS_PME" ("DT_VENDA", "CNPJ_CORRETORA", "CORRETORA", "CPF", "VENDEDOR", "CNPJ_CLIENTE", "RAZAO_SOCIAL_CLIENTE", "LOGIN_DCMS", "LOGRADOURO", "NUMERO", "COMPLEMENTO", "BAIRRO", "CIDADE", "UF", "CEP", "REPRESENTANTE_LEGAL", "CELULAR", "EMAIL", "PLANO", "TOTAL_VIDAS", "DIA_FATURA", "VALOR_VENDA") AS 
+  CREATE OR REPLACE FORCE VIEW "CORRET"."VWOD_EMP_TOTAL_VIDAS_PME" 
+  (
+  "DT_VENDA", 
+  "CNPJ_CORRETORA", 
+  "CORRETORA", 
+  "CPF", 
+  "VENDEDOR", 
+  "CNPJ_CLIENTE", 
+  "RAZAO_SOCIAL_CLIENTE", 
+  "LOGIN_DCMS", 
+  "LOGRADOURO", 
+  "NUMERO", 
+  "COMPLEMENTO", 
+  "BAIRRO", 
+  "CIDADE", 
+  "UF", 
+  "CEP", 
+  "REPRESENTANTE_LEGAL", 
+  "CELULAR", 
+  "EMAIL", 
+  "PLANO", 
+  "TOTAL_VIDAS", 
+  "DIA_FATURA", 
+  "VALOR_VENDA"
+  ) AS 
   SELECT
   venda.dt_venda,
   cor.cnpj                cnpj_corretora,
@@ -42,9 +67,12 @@ WHERE 1 = 1
       AND empc.cd_endereco = ende.cd_endereco
       AND empc.cnpj = emp.nr_cgc (+)
       AND venda.cd_forca_vendas = forca.cd_forca_venda
-      AND cor.cd_corretora = forca.cd_corretora
+      AND venda.cd_corretora = cor.cd_corretora /*201808021818 - esert - COR-529 - inc*/
+      /*AND cor.cd_corretora = forca.cd_corretora*//*201808021818 - esert - COR-529 - exc*/
       AND plano.cd_plano = vv.cd_plano
 GROUP BY
+/*rever motivo deste group maior que select com marcelo@odpv - 201808021911*/
+/*
   cor.nome, cor.cnpj,
   forca.nome, forca.cpf,
   empc.cnpj,
@@ -77,6 +105,29 @@ GROUP BY
   emp.dt_alteracao,
   venda.fatura_vencimento,
   venda.VALOR_TOTAL
+  */
+  venda.dt_venda,
+  cor.cnpj                ,--cnpj_corretora,
+  cor.nome                ,--corretora,
+  forca.cpf,
+  forca.nome              ,--vendedor,
+  empc.cnpj               ,--CNPJ_CLIENTE,
+  empc.razao_social       ,--RAZAO_SOCIAL_CLIENTE,
+  emp.cd_empresa          ,--LOGIN_DCMS,
+  ende.logradouro,
+  ende.numero,
+  ende.complemento,
+  ende.bairro,
+  ende.cidade,
+  ende.UF,
+  ende.cep,
+  empc.representante_legal,
+  empc.celular,
+  empc.email,
+  plano.titulo            ,--PLANO,
+  --Count(vida.cd_vida)     TOTAL_VIDAS,
+  venda.fatura_vencimento ,--DIA_FATURA,
+  venda.VALOR_TOTAL       --VALOR_VENDA
 ORDER BY
   venda.dt_venda,
   empc.cnpj;

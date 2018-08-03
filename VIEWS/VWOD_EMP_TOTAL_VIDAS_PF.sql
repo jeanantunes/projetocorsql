@@ -1,6 +1,7 @@
 --------------------------------------------------------
 --  DDL for View VWOD_EMP_TOTAL_VIDAS_PF
 --------------------------------------------------------
+/*201808021818 - esert - COR-529: excluir forcaVenda x corretora, incluir venda x corretora*/
 
   CREATE OR REPLACE FORCE VIEW "CORRET"."VWOD_EMP_TOTAL_VIDAS_PF" ("NUM_PROPOSTA", "DT_VENDA", "PRIMEIRO_VENCIMENTO", "CORRETORA", "CNPJ_CORRETORA", "NOME_FORCA", "CPF_FORCA", "PLANO_PF", "TIPO_PLANO", "VIDAS", "VALOR_VENDA", "STATUS_PROPOSTA", "CPF_TITULAR", "NOME_TITULAR", "LOGRADOURO", "NUMERO", "COMPLEMENTO", "BAIRRO", "CIDADE", "UF", "CEP", "EMAIL") AS 
   SELECT
@@ -46,7 +47,8 @@
         AND vv.cd_vida = vida.cd_vida
         AND vida.cd_titular IS NULL
         AND v.cd_forca_vendas = forca.cd_forca_venda
-        AND forca.cd_corretora = cor.cd_corretora
+        AND v.cd_corretora = cor.cd_corretora /*201808021818 - esert - COR-529 - inc*/
+        /*AND forca.cd_corretora = cor.cd_corretora*//*201808021818 - esert - COR-529 - exc*/
         AND vida.cd_endereco = ende.cd_endereco
         AND v.CD_STATUS_VENDA = status.CD_STATUS_VENDA
   GROUP BY v.proposta_dcms,
