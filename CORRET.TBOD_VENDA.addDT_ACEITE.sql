@@ -1,0 +1,9 @@
+/*
+COR-550 : INCLUSAO DT_ACEITE na TBOD_VENDA
+*/
+select * from CORRET.TBOD_VENDA;
+
+alter table CORRET.TBOD_VENDA
+  add DT_ACEITE DATE NULL;
+
+COMMIT;
