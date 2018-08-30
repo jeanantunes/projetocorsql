@@ -1,0 +1,286 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 //CARGA MATERIAIS DIVULGACAO\
+\
+\{\
+	"materiaisDivulgacao":\
+	[		\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":8\
+			,"nome":"Email-Planos-PME.jpg"\
+			,"descricao":"Email Planos PME"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEB-Email-Marketing/"\
+			,"arquivo":"Email-Planos-PME.jpg"\
+			,"thumbnail":"emkt-pme-200x250-2.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":8\
+			,"nome":"Email-Planos-PF.jpg"\
+			,"descricao":"Email-Planos-PF"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEB-Email-Marketing/"\
+			,"arquivo":"Email-Planos-PF.jpg"\
+			,"thumbnail":"emkt-pf-200x250-2.jpg"\
+		\}\
+	]\
+\}\
+\
+//CARGA MATERIASIS DIVULGACAO Whatsapp e Facebook APP WEB\
+\
+\{\
+	"materiaisDivulgacao":\
+	[		\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":1\
+			,"nome":"diferenciais-odpv-facebook-whatsapp-250x250-6.jpg"\
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-250x250-6"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEBeAPP-DiferenciaisOdontoprev-PostsparaWhatsappeFacebook/"\
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-6.jpg"\
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-6.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":1\
+			,"nome":"diferenciais-odpv-facebook-whatsapp-250x250-7.jpg"\
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-250x250-7"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEBeAPP-DiferenciaisOdontoprev-PostsparaWhatsappeFacebook/"\
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-250x250-7.jpg"\
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-7.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":1\
+			,"nome":"diferenciais-odpv-facebook-whatsapp-250x250-8.jpg"\
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-250x250-8"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEBeAPP-DiferenciaisOdontoprev-PostsparaWhatsappeFacebook/"\
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-8.jpg"\
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-8.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":1\
+			,"nome":"diferenciais-odpv-facebook-whatsapp-250x250-9.jpg"\
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-250x250-9"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEBeAPP-DiferenciaisOdontoprev-PostsparaWhatsappeFacebook/"\
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-9.jpg"\
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-9.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":1\
+			,"nome":"diferenciais-odpv-facebook-whatsapp-250x250-10.jpg"\
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-250x250-10"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEBeAPP-DiferenciaisOdontoprev-PostsparaWhatsappeFacebook/"\
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-10.jpg"\
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-10.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":1\
+			,"nome":"diferenciais-odpv-facebook-whatsapp-250x250-11.jpg"\
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-250x250-11"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEBeAPP-DiferenciaisOdontoprev-PostsparaWhatsappeFacebook/"\
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-11.jpg"\
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-11.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":1\
+			,"nome":"diferenciais-odpv-facebook-whatsapp-250x250-12.jpg"\
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-250x250-12"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEBeAPP-DiferenciaisOdontoprev-PostsparaWhatsappeFacebook/"\
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-12.jpg"\
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-12.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":1\
+			,"nome":"diferenciais-odpv-facebook-whatsapp-250x250-13.jpg"\
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-250x250-13"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEBeAPP-DiferenciaisOdontoprev-PostsparaWhatsappeFacebook/"\
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-13.jpg"\
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-13.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":1\
+			,"nome":"diferenciais-odpv-facebook-whatsapp-250x250-14.jpg"\
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-250x250-14"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEBeAPP-DiferenciaisOdontoprev-PostsparaWhatsappeFacebook/"\
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-14.jpg"\
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-14.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":1\
+			,"nome":"diferenciais-odpv-facebook-whatsapp-250x250-15.jpg"\
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-250x250-15"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEBeAPP-DiferenciaisOdontoprev-PostsparaWhatsappeFacebook/"\
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-15.jpg"\
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-15.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":1\
+			,"nome":"diferenciais-odpv-facebook-whatsapp-250x250-16.jpg"\
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-250x250-16"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEBeAPP-DiferenciaisOdontoprev-PostsparaWhatsappeFacebook/"\
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-16.jpg"\
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-16.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":1\
+			,"nome":"diferenciais-odpv-facebook-whatsapp-250x250-17.jpg"\
+			,"descricao":"diferenciais-odpv-facebook-whatsapp-250x250-17"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEBeAPP-DiferenciaisOdontoprev-PostsparaWhatsappeFacebook/"\
+			,"arquivo":"diferenciais-odpv-facebook-whatsapp-1000x1000-17.jpg"\
+			,"thumbnail":"diferenciais-odpv-facebook-whatsapp-250x250-17.jpg"\
+		\}\
+	]\
+\}\
+\
+\
+//CARGA MATERIAIS DIVULGACAO Web Capa Facebook\
+\
+\{\
+	"materiaisDivulgacao":\
+	[		\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":4\
+			,"nome":"capa-fb-540x234-15.jpg"\
+			,"descricao":"capa-fb-540x234-15"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEB-DiferenciaisOdontoprev-Capaparafacebook/"\
+			,"arquivo":"capa-fb-1280x555-15.jpg"\
+			,"thumbnail":"capa-fb-540x234-15.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":4\
+			,"nome":"capa-fb-540x234-16.jpg"\
+			,"descricao":"capa-fb-540x234-16"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEB-DiferenciaisOdontoprev-Capaparafacebook/"\
+			,"arquivo":"capa-fb-1280x555-16.jpg"\
+			,"thumbnail":"capa-fb-540x234-16.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":4\
+			,"nome":"capa-fb-540x234-17.jpg"\
+			,"descricao":"capa-fb-540x234-17"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEB-DiferenciaisOdontoprev-Capaparafacebook/"\
+			,"arquivo":"capa-fb-1280x555-17.jpg"\
+			,"thumbnail":"capa-fb-540x234-17.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":4\
+			,"nome":"capa-fb-540x234-18.jpg"\
+			,"descricao":"capa-fb-540x234-18"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEB-DiferenciaisOdontoprev-Capaparafacebook/"\
+			,"arquivo":"capa-fb-1280x555-18.jpg"\
+			,"thumbnail":"capa-fb-540x234-18.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":4\
+			,"nome":"capa-fb-540x234-19.jpg"\
+			,"descricao":"capa-fb-540x234-19"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEB-DiferenciaisOdontoprev-Capaparafacebook/"\
+			,"arquivo":"capa-fb-1280x555-19.jpg"\
+			,"thumbnail":"capa-fb-540x234-19.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":4\
+			,"nome":"capa-fb-540x234-20.jpg"\
+			,"descricao":"capa-fb-540x234-20"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEB-DiferenciaisOdontoprev-Capaparafacebook/"\
+			,"arquivo":"capa-fb-1280x555-20.jpg"\
+			,"thumbnail":"capa-fb-540x234-20.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":4\
+			,"nome":"capa-fb-540x234-21.jpg"\
+			,"descricao":"capa-fb-540x234-21"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEB-DiferenciaisOdontoprev-Capaparafacebook/"\
+			,"arquivo":"capa-fb-1280x555-21.jpg"\
+			,"thumbnail":"capa-fb-540x234-21.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":4\
+			,"nome":"capa-fb-540x234-22.jpg"\
+			,"descricao":"capa-fb-540x234-22"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEB-DiferenciaisOdontoprev-Capaparafacebook/"\
+			,"arquivo":"capa-fb-1280x555-22.jpg"\
+			,"thumbnail":"capa-fb-540x234-22.jpg"\
+		\},\
+		\{\
+			 "codigoMaterialDivulgacao":null\
+			,"codigoCategoria":1\
+			,"codigoSubCategoria":4\
+			,"nome":"capa-fb-540x234-23.jpg"\
+			,"descricao":"capa-fb-540x234-23"\
+			,"tipoConteudo":"image/jpg"\
+			,"caminhoCarga":"/Users/JeanAntunes/Documents/jotait/materiais/WEB-DiferenciaisOdontoprev-Capaparafacebook/"\
+			,"arquivo":"capa-fb-1280x555-23.jpg"\
+			,"thumbnail":"capa-fb-540x234-23.jpg"\
+		\}\
+	]\
+\}\
+\
+}
