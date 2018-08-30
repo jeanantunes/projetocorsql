@@ -1,0 +1,51 @@
+POST/localhost:8090/materialdivulgacao/carregar/lista
+REQUEST BODY RAW application/json
+{
+	"materiaisDivulgacao":
+	[		
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":3
+			,"nome":"foto-perfil-fb-500x500-1.jpg"
+			,"descricao":"foto-perfil-fb-500x500-1.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Foto Perfil Facebook\\"
+			,"arquivo":"foto-perfil-fb-500x500-1.jpg"
+			,"thumbnail":"foto-perfil-fb-250x250-1.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":3
+			,"nome":"foto-perfil-fb-500x500-2.jpg"
+			,"descricao":"foto-perfil-fb-500x500-2.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Foto Perfil Facebook\\"
+			,"arquivo":"foto-perfil-fb-500x500-2.jpg"
+			,"thumbnail":"foto-perfil-fb-250x250-2.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":3
+			,"nome":"foto-perfil-fb-500x500-3.jpg"
+			,"descricao":"foto-perfil-fb-500x500-3.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Foto Perfil Facebook\\"
+			,"arquivo":"foto-perfil-fb-500x500-3.jpg"
+			,"thumbnail":"foto-perfil-fb-250x250-3.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":3
+			,"nome":"foto-perfil-fb-500x500-4.jpg"
+			,"descricao":"foto-perfil-fb-500x500-4.jpg"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\imagem\\Foto Perfil Facebook\\"
+			,"arquivo":"foto-perfil-fb-500x500-4.jpg"
+			,"thumbnail":"foto-perfil-fb-250x250-4.jpg"
+		}
+	]
+}
