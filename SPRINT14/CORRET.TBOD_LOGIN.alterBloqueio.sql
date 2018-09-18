@@ -1,0 +1,27 @@
+/*
+COR-727 : BD - Alterar tabela TBOD_LOGIN - 201809181124 - esert
+*/
+alter table CORRET.TBOD_LOGIN
+  add TEM_BLOQUEIO VARCHAR2(1) NULL
+  add CD_TIPO_BLOQUEIO NUMBER(10) NULL
+;
+
+alter table CORRET.TBOD_LOGIN
+add constraint FK_TBOD_TIPO_BLOQUEIO
+foreign key ("CD_TIPO_BLOQUEIO")
+references "CORRET"."TBOD_TIPO_BLOQUEIO" ("CD_TIPO_BLOQUEIO")
+;
+
+/*
+alter table CORRET.TBOD_LOGIN
+drop constraint FK_TBOD_TIPO_BLOQUEIO
+*/
+
+update TBOD_LOGIN
+set 
+ TEM_BLOQUEIO = 'N'
+,CD_TIPO_BLOQUEIO = 0
+;
+
+COMMIT;
+
