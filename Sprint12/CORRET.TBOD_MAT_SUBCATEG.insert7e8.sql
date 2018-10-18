@@ -1,0 +1,4 @@
+REM INSERTING into TBOD_MAT_SUBCATEG
+SET DEFINE OFF;
+Insert into TBOD_MAT_SUBCATEG (CD_MAT_SUBCATEG,NOME,DESCRICAO,ATIVO,APP,WEB,CD_MAT_CATEG) values ('7','Posts para Whatsapp e Facebook',null,'S','N','S','2');
+Insert into TBOD_MAT_SUBCATEG (CD_MAT_SUBCATEG,NOME,DESCRICAO,ATIVO,APP,WEB,CD_MAT_CATEG) values ('8','Email Marketing',null,'S','N','S','2');

@@ -1,0 +1,62 @@
+sprint12 WEB - Email Marketing 201810181600.json
+
+{
+	"materiaisDivulgacao":
+	[		
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":8
+			,"nome":"Email-Planos-PME.jpg"
+			,"descricao":"Email Planos PME"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\Diversidade\\WEB - Email Marketing\\"
+			,"arquivo":"Email-Planos-PME.jpg"
+			,"thumbnail":"emkt-pme-200x250-2.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":8
+			,"nome":"Email-Planos-PF.jpg"
+			,"descricao":"Email-Planos-PF"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\Diversidade\\WEB - Email Marketing\\"
+			,"arquivo":"Email-Planos-PF.jpg"
+			,"thumbnail":"emkt-pf-200x250-2.jpg"
+		}
+	]
+}
+
+{
+    "materiaisDivulgacao": [
+        {
+            "codigoMaterialDivulgacao": 121,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 8,
+            "nome": "Email-Planos-PME.jpg",
+            "descricao": "Email Planos PME",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 19563,
+            "arquivo": null,
+            "tamanhoArquivo": 210751,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 122,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 8,
+            "nome": "Email-Planos-PF.jpg",
+            "descricao": "Email-Planos-PF",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 22247,
+            "arquivo": null,
+            "tamanhoArquivo": 355584,
+            "ativo": "S",
+            "caminhoCarga": null
+        }
+    ]
+}
