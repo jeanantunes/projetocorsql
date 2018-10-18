@@ -1,0 +1,237 @@
+sprint12 WEB Dif Odonto Capa facebook 201810181600.json
+
+{
+	"materiaisDivulgacao":
+	[		
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":4
+			,"nome":"capa-fb-540x234-15.jpg"
+			,"descricao":"capa-fb-540x234-15"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\Diversidade\\WEB - Diferenciais Odontoprev - Capa para facebook\\"
+			,"arquivo":"capa-fb-1280x555-15.jpg"
+			,"thumbnail":"capa-fb-540x234-15.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":4
+			,"nome":"capa-fb-540x234-16.jpg"
+			,"descricao":"capa-fb-540x234-16"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\Diversidade\\WEB - Diferenciais Odontoprev - Capa para facebook\\"
+			,"arquivo":"capa-fb-1280x555-16.jpg"
+			,"thumbnail":"capa-fb-540x234-16.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":4
+			,"nome":"capa-fb-540x234-17.jpg"
+			,"descricao":"capa-fb-540x234-17"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\Diversidade\\WEB - Diferenciais Odontoprev - Capa para facebook\\"
+			,"arquivo":"capa-fb-1280x555-17.jpg"
+			,"thumbnail":"capa-fb-540x234-17.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":4
+			,"nome":"capa-fb-540x234-18.jpg"
+			,"descricao":"capa-fb-540x234-18"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\Diversidade\\WEB - Diferenciais Odontoprev - Capa para facebook\\"
+			,"arquivo":"capa-fb-1280x555-18.jpg"
+			,"thumbnail":"capa-fb-540x234-18.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":4
+			,"nome":"capa-fb-540x234-19.jpg"
+			,"descricao":"capa-fb-540x234-19"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\Diversidade\\WEB - Diferenciais Odontoprev - Capa para facebook\\"
+			,"arquivo":"capa-fb-1280x555-19.jpg"
+			,"thumbnail":"capa-fb-540x234-19.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":4
+			,"nome":"capa-fb-540x234-20.jpg"
+			,"descricao":"capa-fb-540x234-20"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\Diversidade\\WEB - Diferenciais Odontoprev - Capa para facebook\\"
+			,"arquivo":"capa-fb-1280x555-20.jpg"
+			,"thumbnail":"capa-fb-540x234-20.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":4
+			,"nome":"capa-fb-540x234-21.jpg"
+			,"descricao":"capa-fb-540x234-21"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\Diversidade\\WEB - Diferenciais Odontoprev - Capa para facebook\\"
+			,"arquivo":"capa-fb-1280x555-21.jpg"
+			,"thumbnail":"capa-fb-540x234-21.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":4
+			,"nome":"capa-fb-540x234-22.jpg"
+			,"descricao":"capa-fb-540x234-22"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\Diversidade\\WEB - Diferenciais Odontoprev - Capa para facebook\\"
+			,"arquivo":"capa-fb-1280x555-22.jpg"
+			,"thumbnail":"capa-fb-540x234-22.jpg"
+		},
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":1
+			,"codigoSubCategoria":4
+			,"nome":"capa-fb-540x234-23.jpg"
+			,"descricao":"capa-fb-540x234-23"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\Diversidade\\WEB - Diferenciais Odontoprev - Capa para facebook\\"
+			,"arquivo":"capa-fb-1280x555-23.jpg"
+			,"thumbnail":"capa-fb-540x234-23.jpg"
+		}
+	]
+}
+
+{
+    "materiaisDivulgacao": [
+        {
+            "codigoMaterialDivulgacao": 135,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 4,
+            "nome": "capa-fb-540x234-15.jpg",
+            "descricao": "capa-fb-540x234-15",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 38588,
+            "arquivo": null,
+            "tamanhoArquivo": 131703,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 136,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 4,
+            "nome": "capa-fb-540x234-16.jpg",
+            "descricao": "capa-fb-540x234-16",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 46679,
+            "arquivo": null,
+            "tamanhoArquivo": 169668,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 137,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 4,
+            "nome": "capa-fb-540x234-17.jpg",
+            "descricao": "capa-fb-540x234-17",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 39170,
+            "arquivo": null,
+            "tamanhoArquivo": 141599,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 138,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 4,
+            "nome": "capa-fb-540x234-18.jpg",
+            "descricao": "capa-fb-540x234-18",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 44348,
+            "arquivo": null,
+            "tamanhoArquivo": 167633,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 139,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 4,
+            "nome": "capa-fb-540x234-19.jpg",
+            "descricao": "capa-fb-540x234-19",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 36488,
+            "arquivo": null,
+            "tamanhoArquivo": 135181,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 140,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 4,
+            "nome": "capa-fb-540x234-20.jpg",
+            "descricao": "capa-fb-540x234-20",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 28042,
+            "arquivo": null,
+            "tamanhoArquivo": 96581,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 141,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 4,
+            "nome": "capa-fb-540x234-21.jpg",
+            "descricao": "capa-fb-540x234-21",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 30046,
+            "arquivo": null,
+            "tamanhoArquivo": 111397,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 142,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 4,
+            "nome": "capa-fb-540x234-22.jpg",
+            "descricao": "capa-fb-540x234-22",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 25594,
+            "arquivo": null,
+            "tamanhoArquivo": 95626,
+            "ativo": "S",
+            "caminhoCarga": null
+        },
+        {
+            "codigoMaterialDivulgacao": 143,
+            "codigoCategoria": 1,
+            "codigoSubCategoria": 4,
+            "nome": "capa-fb-540x234-23.jpg",
+            "descricao": "capa-fb-540x234-23",
+            "tipoConteudo": "image/jpg",
+            "thumbnail": null,
+            "tamanhoThumbnail": 31776,
+            "arquivo": null,
+            "tamanhoArquivo": 117503,
+            "ativo": "S",
+            "caminhoCarga": null
+        }
+    ]
+}
