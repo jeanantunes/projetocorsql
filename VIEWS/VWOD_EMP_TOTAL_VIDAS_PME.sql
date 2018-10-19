@@ -2,7 +2,7 @@
 --  DDL for View VWOD_EMP_TOTAL_VIDAS_PME
 --------------------------------------------------------
 /*201808021818 - esert - COR-529: excluir forcaVenda x corretora, incluir venda x corretora */
-
+/*201810191753 - jean - COR-258: add status venda */
   CREATE OR REPLACE FORCE VIEW "CORRET"."VWOD_EMP_TOTAL_VIDAS_PME" 
   (
   "DT_VENDA", 
@@ -26,7 +26,8 @@
   "PLANO", 
   "TOTAL_VIDAS", 
   "DIA_FATURA", 
-  "VALOR_VENDA"
+  "VALOR_VENDA",
+  "STATUS_VENDA"
   ) AS 
   SELECT
   venda.dt_venda,
@@ -50,7 +51,8 @@
   plano.titulo            PLANO,
   Count(vida.cd_vida)     TOTAL_VIDAS,
   venda.fatura_vencimento DIA_FATURA,
-  venda.VALOR_TOTAL       VALOR_VENDA
+  venda.VALOR_TOTAL       VALOR_VENDA,
+  status.DESCRICAO        STATUS_VENDA
 FROM tbod_empresa empc,
   tbod_empresa@lk_dcms emp,
   tbod_venda venda,
@@ -59,7 +61,8 @@ FROM tbod_empresa empc,
   tbod_vida vida,
   tbod_venda_vida vv,
   tbod_endereco ende,
-  tbod_plano plano
+  tbod_plano plano,
+  tbod_status_venda status
 WHERE 1 = 1
       AND vida.cd_vida = vv.cd_vida
       AND venda.cd_venda = vv.cd_venda
@@ -69,7 +72,8 @@ WHERE 1 = 1
       AND venda.cd_forca_vendas = forca.cd_forca_venda
       AND venda.cd_corretora = cor.cd_corretora /*201808021818 - esert - COR-529 - inc*/
       /*AND cor.cd_corretora = forca.cd_corretora*//*201808021818 - esert - COR-529 - exc*/
-      AND plano.cd_plano = vv.cd_plano
+      AND plano.cd_plano = vv.cd_plano,
+      AND venda.cd_status_venda = status.cd_status_venda (+) -- COR-258
 GROUP BY
 /*rever motivo deste group maior que select com marcelo@odpv - 201808021911*/
 /*
@@ -127,7 +131,8 @@ GROUP BY
   plano.titulo            ,--PLANO,
   --Count(vida.cd_vida)     TOTAL_VIDAS,
   venda.fatura_vencimento ,--DIA_FATURA,
-  venda.VALOR_TOTAL       --VALOR_VENDA
+  venda.VALOR_TOTAL,       --VALOR_VENDA
+  status.DESCRICAO         --STATUS_VENDA
 ORDER BY
   venda.dt_venda,
   empc.cnpj;
