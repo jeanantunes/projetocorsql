@@ -72,7 +72,7 @@ WHERE 1 = 1
       AND venda.cd_forca_vendas = forca.cd_forca_venda
       AND venda.cd_corretora = cor.cd_corretora /*201808021818 - esert - COR-529 - inc*/
       /*AND cor.cd_corretora = forca.cd_corretora*//*201808021818 - esert - COR-529 - exc*/
-      AND plano.cd_plano = vv.cd_plano,
+      AND plano.cd_plano = vv.cd_plano
       AND venda.cd_status_venda = status.cd_status_venda (+) -- COR-258
 GROUP BY
 /*rever motivo deste group maior que select com marcelo@odpv - 201808021911*/
