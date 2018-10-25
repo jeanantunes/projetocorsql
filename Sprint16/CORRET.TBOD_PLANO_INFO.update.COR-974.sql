@@ -75,31 +75,15 @@ where NOME_PLANO like 'MasterPME%'
 
 /*201810251733
 2 linhas atualizado.
-
-
 3 linhas atualizado.
-
-
 3 linhas atualizado.
-
-
 3 linhas atualizado.
-
-
 3 linhas atualizado.
-
-
 2 linhas atualizado.
-
-
 2 linhas atualizado.
-
-
 2 linhas atualizado.
-
 Commit concluído.
 */
-
 
 /*
 select substr( NOME_PLANO, 1, 10) NOME_PLANO_1_10, count(1) count_ from TBOD_PLANO group by substr( NOME_PLANO, 1, 10) order by 1;

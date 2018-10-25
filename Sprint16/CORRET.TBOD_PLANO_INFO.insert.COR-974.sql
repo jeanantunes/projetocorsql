@@ -1,5 +1,12 @@
 /*201810251557 - esert - COR-974:CARGA HOM e PRD - DB carga TBOD_ARQUIVO + TBOD_PLANO_INFO + TBOD_PLANO(update)*/
 
+/*
+update TBOD_PLANO set CD_PLANO_INFO = null;
+
+delete TBOD_PLANO_INFO;
+*/
+--commit;
+
 Insert into TBOD_PLANO_INFO 
 (
  CD_PLANO_INFO
@@ -11,7 +18,7 @@ Insert into TBOD_PLANO_INFO
 ,TIPO_SEGMENTO
 ,ATIVO
 ) values (
- (select SEQ_TBOD_ARQUIVO.NEXTVAL from dual) --'1'
+ SEQ_TBOD_ARQUIVO.NEXTVAL  --'1'
 ,'Dental Dente de Leite'
 ,'Aplicação de Flúor e Selantes
 Cirurgia e Radiografias
@@ -30,6 +37,7 @@ Tratamento de Canal e Gengiva'
 ,'S'
 );
 
+
 Insert into TBOD_PLANO_INFO (
  CD_PLANO_INFO
 ,NOME_PLANO_INFO
@@ -40,7 +48,7 @@ Insert into TBOD_PLANO_INFO (
 ,TIPO_SEGMENTO
 ,ATIVO
 ) values (
- (select SEQ_TBOD_ARQUIVO.NEXTVAL from dual) --'2'
+ SEQ_TBOD_ARQUIVO.NEXTVAL --'2'
 ,'Dental Júnior'
 ,'Aplicação de Flúor e Selantes
 Cirurgia e Radiografias
@@ -69,7 +77,7 @@ Insert into TBOD_PLANO_INFO (
 ,TIPO_SEGMENTO
 ,ATIVO
 ) values (
- (select SEQ_TBOD_ARQUIVO.NEXTVAL from dual) --'3'
+ SEQ_TBOD_ARQUIVO.NEXTVAL --'3'
 ,'Dental Bem-Estar'
 ,'Aplicação de Flúor e Selantes
 Cirurgia e Radiografias
@@ -98,7 +106,7 @@ Insert into TBOD_PLANO_INFO (
 ,TIPO_SEGMENTO
 ,ATIVO
 ) values (
- (select SEQ_TBOD_ARQUIVO.NEXTVAL from dual) --'4'
+ SEQ_TBOD_ARQUIVO.NEXTVAL --'4'
 ,'Dental Estética'
 ,'Aplicação de Flúor e Selantes
 Cirurgia e Radiografias
@@ -128,7 +136,7 @@ Insert into TBOD_PLANO_INFO (
 ,TIPO_SEGMENTO
 ,ATIVO
 ) values (
- (select SEQ_TBOD_ARQUIVO.NEXTVAL from dual) --'5'
+ SEQ_TBOD_ARQUIVO.NEXTVAL --'5'
 ,'Dental Orto'
 ,'Aplicação de Flúor e Selantes
 Cirurgia e Radiografias
@@ -159,7 +167,7 @@ Insert into TBOD_PLANO_INFO (
 ,TIPO_SEGMENTO
 ,ATIVO
 ) values (
- (select SEQ_TBOD_ARQUIVO.NEXTVAL from dual) --'6'
+ SEQ_TBOD_ARQUIVO.NEXTVAL --'6'
 ,'Dental VIP'
 ,'Aplicação de Flúor e Selantes
 Cirurgia e Radiografias
@@ -192,7 +200,7 @@ Insert into TBOD_PLANO_INFO (
 ,TIPO_SEGMENTO
 ,ATIVO
 ) values (
- (select SEQ_TBOD_ARQUIVO.NEXTVAL from dual) --'7'
+ SEQ_TBOD_ARQUIVO.NEXTVAL --'7'
 ,'Dental Integral DOC LE'
 ,'Documentação e radiografias ortodônticas
 Prótese unitária (Coroa)
@@ -221,7 +229,7 @@ Insert into TBOD_PLANO_INFO (
 ,TIPO_SEGMENTO
 ,ATIVO
 ) values (
- (select SEQ_TBOD_ARQUIVO.NEXTVAL from dual) --'8'
+ SEQ_TBOD_ARQUIVO.NEXTVAL --'8'
 ,'Dental Master LE'
 ,'Todas as coberturas do plano INTEGRAL DOC LE
 + Prótese (Inclusive porcelana e cerâmica)
@@ -235,5 +243,6 @@ Insert into TBOD_PLANO_INFO (
 ,'S'
 );
 
+--commit;
 
 
