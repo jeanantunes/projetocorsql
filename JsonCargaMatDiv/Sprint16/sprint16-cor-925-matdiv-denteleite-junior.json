@@ -1,0 +1,88 @@
+{
+	"materiaisDivulgacao":
+	[		
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":2
+			,"codigoSubCategoria":5
+			,"nome":"pf-dente-de-leite-fb-wapp.jpg"
+			,"descricao":"Plano Dental Dente de Leite"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\cor-925-denteleite-junior\\cat-plano\\sub-cat-pessoa-fisica\\"
+			,"arquivo":"pf-dente-de-leite-fb-wapp-1000x1000.jpg"
+			,"thumbnail":"pf-dente-de-leite-fb-wapp-250x250.jpg"
+		}
+		,
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":2
+			,"codigoSubCategoria":5
+			,"nome":"pf-dental-junior-fb-wapp.jpg"
+			,"descricao":"Plano Dental Júnior"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\cor-925-denteleite-junior\\cat-plano\\sub-cat-pessoa-fisica\\"
+			,"arquivo":"pf-dental-junior-fb-wapp-1000x1000.jpg"
+			,"thumbnail":"pf-dental-junior-fb-wapp-250x250.jpg"
+		}
+		,
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":2
+			,"codigoSubCategoria":5
+			,"nome":"divulgação-pf-dente-de-leite-fb-wapp-1.jpg"
+			,"descricao":"Divulgação Plano Dental Dente de Leite 1"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\cor-925-denteleite-junior\\cat-plano\\sub-cat-pessoa-fisica\\"
+			,"arquivo":"divulgacao-pf-dente-de-leite-fb-wapp-1-1000x1000.jpg"
+			,"thumbnail":"divulgacao-pf-dente-de-leite-fb-wapp-1-250x250.jpg"
+		}
+		,
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":2
+			,"codigoSubCategoria":5
+			,"nome":"divulgação-pf-dente-de-leite-fb-wapp-2.jpg"
+			,"descricao":"Divulgação Plano Dental Dente de Leite 2"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\cor-925-denteleite-junior\\cat-plano\\sub-cat-pessoa-fisica\\"
+			,"arquivo":"divulgacao-pf-dente-de-leite-fb-wapp-2-1000x1000.jpg"
+			,"thumbnail":"divulgacao-pf-dente-de-leite-fb-wapp-2-250x250.jpg"
+		}
+		,
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":2
+			,"codigoSubCategoria":5
+			,"nome":"divulgação-pf-dente-de-leite-fb-wapp-3.jpg"
+			,"descricao":"Divulgação Plano Dental Dente de Leite 3"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\cor-925-denteleite-junior\\cat-plano\\sub-cat-pessoa-fisica\\"
+			,"arquivo":"divulgacao-pf-dente-de-leite-fb-wapp-3-1000x1000.jpg"
+			,"thumbnail":"divulgacao-pf-dente-de-leite-fb-wapp-3-250x250.jpg"
+		}
+		,
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":2
+			,"codigoSubCategoria":5
+			,"nome":"divulgação-pf-dental-junior-fb-wapp-1.jpg"
+			,"descricao":"Divulgação Plano Dental Júnior 1"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\cor-925-denteleite-junior\\cat-plano\\sub-cat-pessoa-fisica\\"
+			,"arquivo":"divulgacao-pf-dental-junior-fb-wapp-1-1000x1000.jpg"
+			,"thumbnail":"divulgacao-pf-dental-junior-fb-wapp-1-250x250.jpg"
+		}
+		,
+		{
+			 "codigoMaterialDivulgacao":null
+			,"codigoCategoria":2
+			,"codigoSubCategoria":5
+			,"nome":"divulgação-pf-dental-junior-fb-wapp-2.jpg"
+			,"descricao":"Divulgação Plano Dental Júnior 2"
+			,"tipoConteudo":"image/jpg"
+			,"caminhoCarga":"c:\\arquivos_carregados\\materiais\\cor-925-denteleite-junior\\cat-plano\\sub-cat-pessoa-fisica\\"
+			,"arquivo":"divulgacao-pf-dental-junior-fb-wapp-2-1000x1000.jpg"
+			,"thumbnail":"divulgacao-pf-dental-junior-fb-wapp-2-250x250.jpg"
+		}
+	]
+}
