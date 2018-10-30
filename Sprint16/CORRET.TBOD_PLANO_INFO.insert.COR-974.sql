@@ -30,7 +30,7 @@ Orientação de Higiene Bucal
 Próteses Simples (unitária)
 Restaurações
 Tratamento de Canal e Gengiva'
-,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'plano_dente_de_leite.pdf') --'24'
+,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'condicao_dente_de_leite.pdf') --'24'
 ,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'carencia_dente_de_leite.pdf') --'23'
 ,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'iconeDente-de-Leite.jpg') --'14'
 ,'PF'
@@ -60,8 +60,8 @@ Orientação de Higiene Bucal
 Próteses Simples (unitária)
 Restaurações
 Tratamento de Canal e Gengiva'
-,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'plano_dental_junior.pdf') --'25'
-,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'carencia_plano_dental_junior.pdf') --'28'
+,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'condicao_dental_junior.pdf') --'25'
+,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'carencia_dental_junior.pdf') --'28'
 ,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'iconeJunior.jpg') --'15'
 ,'PF'
 ,'S'
@@ -89,7 +89,7 @@ Orientação de Higiene Bucal
 Próteses Simples (unitária)
 Restaurações
 Tratamento de Canal e Gengiva'
-,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'plano_dental_bem_estar.pdf') --'27'
+,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'condicao_dental_bem_estar.pdf') --'27'
 ,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'carencia_dental_bem_estar.pdf') --'26'
 ,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'iconeBem-Estar.jpg') --'8'
 ,'PF'
@@ -119,7 +119,7 @@ Placa de Clareamento + Gel
 Próteses Simples (unitária)
 Restaurações
 Tratamento de Canal e Gengiva'
-,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'plano_dental_estetica.pdf') --'33'
+,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'condicao_dental_estetica.pdf') --'33'
 ,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'carencia_dental_estetica.pdf') --'31'
 ,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'iconeEstetica.jpg') --'12'
 ,'PF'
@@ -150,7 +150,7 @@ Orientação de Higiene Bucal
 Próteses Simples (unitária)
 Restaurações
 Tratamento de Canal e Gengiva'
-,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'plano_dental_orto.pdf') --'34'
+,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'condicao_dental_orto.pdf') --'34'
 ,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'carencia_dental_orto.pdf') --'35'
 ,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'iconeOrto.jpg') --'13'
 ,'PF'
@@ -183,7 +183,7 @@ Próteses (Completa)
 Próteses Simples (unitária)
 Restaurações
 Tratamento de Canal e Gengiva'
-,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'plano_dental_vip.pdf') --'39'
+,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'condicao_dental_vip.pdf') --'39'
 ,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'carencia_dental_vip.pdf') --'40'
 ,(select CD_ARQUIVO from TBOD_ARQUIVO where NOME_ARQUIVO = 'iconeVIP.jpg') --'16'
 ,'PF'
