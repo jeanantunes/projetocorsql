@@ -1,0 +1,401 @@
+{
+	"arquivos":[
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "carencia_dental_bem_estar.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+		,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "condicao_dental_bem_estar.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+		,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "iconeBem-Estar.jpg",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "carencia_dental_estetica.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+		,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "condicao_dental_estetica.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+		,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "iconeEstetica.jpg",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "carencia_dental_junior.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+		,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "condicao_dental_junior.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+		,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "iconeJunior.jpg",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "carencia_dental_orto.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+		,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "condicao_dental_orto.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+		,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "iconeOrto.jpg",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "carencia_dental_vip.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+		,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "condicao_dental_vip.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+		,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "iconeVIP.jpg",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "carencia_dente_de_leite.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+		,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "condicao_dente_de_leite.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+		,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "iconeDente-de-Leite.jpg",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+,
+		{
+			"cdArquivo": null,
+			"nomeArquivo": "contrato_condicoes_gerais_pme.pdf",
+			"tipoConteudo": null,
+			"tamanho": null,
+			"dataCriacao": null,
+			"arquivoBase64": null,
+		    "caminhoArquivo": "c://arquivos_carregados//arquivos//COR-526//"
+		}
+	]
+}
+
+/*
+{
+    "arquivos": [
+        {
+            "cdArquivo": 47,
+            "nomeArquivo": "carencia_dental_bem_estar.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 1613008,
+            "dataCriacao": "2018-10-30T22:03:52-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        },
+        {
+            "cdArquivo": 48,
+            "nomeArquivo": "condicao_dental_bem_estar.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 3600680,
+            "dataCriacao": "2018-10-30T22:03:54-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        },
+        {
+            "cdArquivo": 49,
+            "nomeArquivo": "iconeBem-Estar.jpg",
+            "tipoConteudo": "image/jpeg",
+            "tamanho": 9909,
+            "dataCriacao": "2018-10-30T22:03:55-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        }
+    ]
+}
+
+{
+    "arquivos": [
+        {
+            "cdArquivo": 50,
+            "nomeArquivo": "carencia_dental_estetica.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 1659842,
+            "dataCriacao": "2018-10-30T22:05:15-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        },
+        {
+            "cdArquivo": 51,
+            "nomeArquivo": "condicao_dental_estetica.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 3408053,
+            "dataCriacao": "2018-10-30T22:05:16-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        },
+        {
+            "cdArquivo": 52,
+            "nomeArquivo": "iconeEstetica.jpg",
+            "tipoConteudo": "image/jpeg",
+            "tamanho": 10448,
+            "dataCriacao": "2018-10-30T22:05:17-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        }
+    ]
+}
+
+{
+    "arquivos": [
+        {
+            "cdArquivo": 56,
+            "nomeArquivo": "carencia_dental_junior.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 3791977,
+            "dataCriacao": "2018-10-30T22:07:10-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        },
+        {
+            "cdArquivo": 57,
+            "nomeArquivo": "condicao_dental_junior.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 4483180,
+            "dataCriacao": "2018-10-30T22:07:11-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        },
+        {
+            "cdArquivo": 58,
+            "nomeArquivo": "iconeJunior.jpg",
+            "tipoConteudo": "image/jpeg",
+            "tamanho": 11934,
+            "dataCriacao": "2018-10-30T22:07:13-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        }
+    ]
+}
+
+{
+    "arquivos": [
+        {
+            "cdArquivo": 59,
+            "nomeArquivo": "carencia_dental_orto.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 5230467,
+            "dataCriacao": "2018-10-30T22:08:43-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        },
+        {
+            "cdArquivo": 60,
+            "nomeArquivo": "condicao_dental_orto.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 4444094,
+            "dataCriacao": "2018-10-30T22:08:45-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        },
+        {
+            "cdArquivo": 61,
+            "nomeArquivo": "iconeOrto.jpg",
+            "tipoConteudo": "image/jpeg",
+            "tamanho": 10494,
+            "dataCriacao": "2018-10-30T22:08:47-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        }
+    ]
+}
+
+{
+    "arquivos": [
+        {
+            "cdArquivo": 62,
+            "nomeArquivo": "carencia_dental_vip.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 1922278,
+            "dataCriacao": "2018-10-30T22:09:58-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        },
+        {
+            "cdArquivo": 63,
+            "nomeArquivo": "condicao_dental_vip.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 5052612,
+            "dataCriacao": "2018-10-30T22:09:59-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        },
+        {
+            "cdArquivo": 64,
+            "nomeArquivo": "iconeVIP.jpg",
+            "tipoConteudo": "image/jpeg",
+            "tamanho": 10937,
+            "dataCriacao": "2018-10-30T22:10:01-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        }
+    ]
+}
+
+{
+    "arquivos": [
+        {
+            "cdArquivo": 65,
+            "nomeArquivo": "carencia_dente_de_leite.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 1560788,
+            "dataCriacao": "2018-10-30T22:15:17-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        },
+        {
+            "cdArquivo": 66,
+            "nomeArquivo": "condicao_dente_de_leite.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 2446520,
+            "dataCriacao": "2018-10-30T22:15:18-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        },
+        {
+            "cdArquivo": 67,
+            "nomeArquivo": "iconeDente-de-Leite.jpg",
+            "tipoConteudo": "image/jpeg",
+            "tamanho": 11072,
+            "dataCriacao": "2018-10-30T22:15:20-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        }
+    ]
+}
+
+{
+    "arquivos": [
+        {
+            "cdArquivo": 68,
+            "nomeArquivo": "contrato_condicoes_gerais_pme.pdf",
+            "tipoConteudo": "application/pdf",
+            "tamanho": 11412629,
+            "dataCriacao": "2018-10-30T22:16:03-0300",
+            "arquivoBase64": null,
+            "caminhoArquivo": null
+        }
+    ]
+}
+*/
